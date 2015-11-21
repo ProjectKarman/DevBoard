@@ -394,18 +394,22 @@ GenerateClassCluster=0
 DocumentUniqueId=VHEBNKCI
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for karmanDB_pcb\karmanDB.EXTREP
+DocumentPath=Project Outputs for karmanDB_pcb\Design Rule Check - karmanDB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for karmanDB_pcb\karmanDB.GTS
+DocumentPath=Project Outputs for karmanDB_pcb\karmanDB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for karmanDB_pcb\karmanDB.REP
+DocumentPath=Project Outputs for karmanDB_pcb\karmanDB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument4]
+DocumentPath=Project Outputs for karmanDB_pcb\karmanDB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
 DocumentPath=Project Outputs for karmanDB_pcb\karmanDB.RUL
 DItemRevisionGUID=
 
